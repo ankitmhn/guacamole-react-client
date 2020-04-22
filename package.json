@@ -1,0 +1,23 @@
+{
+  "name": "guacamole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitmhn/guacamole-application.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitmhn/guacamole-application/issues"
+  },
+  "homepage": "https://github.com/ankitmhn/guacamole-application#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
